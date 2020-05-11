@@ -6,9 +6,9 @@ const body = document.querySelector('body');
 const colors = ['red', 'green', 'blue', 'pink', 'purple'];
 
 // Adds a click event to the button
-button.addEventListener('click', changeBackground)
+button.addEventListener('click', changeBackground);
 
 function changeBackground() {
-const colorIndex = parseInt(Math.random()*colors.length)
+const colorIndex = parseInt(Math.random()*colors.length);
 body.style.backgroundColor = colors[colorIndex]
 }
