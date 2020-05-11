@@ -5,9 +5,6 @@ const body = document.querySelector('body');
 // We assign our colours within an array
 const colors = ['red', 'green', 'blue', 'pink', 'purple'];
 
-// Can assign the colour
-body.style.changeBackground = 'violet';
-
 // Adds a click event to the button
 button.addEventListener('click', changeBackground)
 
