@@ -8,14 +8,14 @@
     cursor: pointer;
     font-size: 18px;
     text-decoration: none;
-    color: white;
-    background: red;
+    color: #ffffff;
+    background: #ff4d4d;
     padding: 15px 22px;
     border: none;
 }
 
 .button:hover {
-  background-color: green;
-  color: black;
+  background-color: #7CFC00;
+  color: #0d6dba;
   transition: ease-in-out 550ms;
 }
