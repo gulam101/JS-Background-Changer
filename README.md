@@ -1,2 +1,2 @@
 # JS-Background-Changer
-Created using JavaScript
+## Created using HTML, CSS, and Vanilla JS
