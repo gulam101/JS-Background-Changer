@@ -1,0 +1,21 @@
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+    cursor: pointer;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    background: red;
+    padding: 15px 22px;
+    border: none;
+}
+
+.button:hover {
+  background-color: green;
+  color: black;
+  transition: ease-in-out 550ms;
+}
