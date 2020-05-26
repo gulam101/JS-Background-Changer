@@ -40,5 +40,15 @@ This project justs utilised vanilla JS and focus on allowing the user to change 
 - Any IDE to view code (Preferably Atom or Brackets)
 - Access to developer tools on web browser
 
+### Instructions:
+- Step 1: Click on Index.html
+- Step 2: Click on the play button
+
+### Installing The Tools:
+
+### What I Learnt:
+- Arrays in JavaScript
+- Using JavaScript to find elements in HTML & CSS
+
 ### Constrants:
 None.
