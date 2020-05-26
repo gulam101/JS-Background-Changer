@@ -5,8 +5,8 @@
 [Description](#Description)  
 <a name="Description"/>
 
-[Planned Features](#Planned_Features)  
-<a name="Planned_Features"/>
+[Prerequisites](#Prerequisites)  
+<a name="Prerequisites"/>
 
 [What I learnt](#What_I_Learnt)  
 <a name="What_I_Learnt"/>
@@ -31,6 +31,11 @@
 
 ### Description:
 This project justs utilised vanilla JS and focus on allowing the user to change the background of a colour by clicking the button in the middle of the screen. I wanted to see how JavaScript handles elements in HTML and CSS so that I could get used to working with them. The button has a simple css animation allowing it to change the background using an array with different HEX colours.
+
+### Prerequisites:
+- Any Modern Browser (Preferably Chrome or Firefox)
+- Any IDE to view code (Preferably Atom or Brackets)
+- Access to developer tools on web browser
 
 ### Constrants:
 None.
