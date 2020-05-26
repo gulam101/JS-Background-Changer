@@ -8,6 +8,9 @@
 [Prerequisites](#Prerequisites)  
 <a name="Prerequisites"/>
 
+[Installing the Tools](#Installing_the_Tools)  
+<a name="Installing_the_Tools"/>
+
 [What I learnt](#What_I_Learnt)  
 <a name="What_I_Learnt"/>
 
