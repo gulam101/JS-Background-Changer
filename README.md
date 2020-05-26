@@ -30,4 +30,7 @@
 <a name="Credits"/>
 
 ### Description:
-This project had a main focus on allowing the user to change the background of a colour by clicking the button in the middle of the screen.
+This project justs utilised vanilla JS and focus on allowing the user to change the background of a colour by clicking the button in the middle of the screen. I wanted to see how JavaScript handles elements in HTML and CSS so that I could get used to working with them. The button has a simple css animation allowing it to change the background using an array with different HEX colours.
+
+### Constrants:
+None.
